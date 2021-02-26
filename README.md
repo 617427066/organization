@@ -1,2 +1,2 @@
 # organization
-this is SSM project
+社团管理系统
